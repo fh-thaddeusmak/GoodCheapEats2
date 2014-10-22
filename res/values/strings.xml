@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">肥媽食平D系列－食譜</string>
+    <string name="action_settings">Settings</string>
+    <string name="image">copyright</string>
+    <string name="enlarge">放大</string>
+    <string name="imagebutton2">食平DD － 食譜</string>
+    <string name="imagebutton1">食平D － 食譜</string>
+
+</resources>
